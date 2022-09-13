@@ -5,7 +5,7 @@ function App() {
   const users = [
     {id: 1,nome: "Erick",idade:21, profissao:"Estudante"},
     {id: 2,nome: "Tex",idade:17,profissao:"mecânico"},
-    {id: 3,nome: "John",idade:22,profissao:"developer"},
+    {id: 3,nome: "John",idade:22,profissao:"developer "},
   ]
   return (
     <div className="App">
