@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 100;
+  font-family: monospace;
+  text-align: center;
+}
+
+.car-container {
+  display: block;
+  justify-content: center;
+}
+
+.car-container div {
+  margin-top: 50px;
+}
